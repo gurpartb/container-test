@@ -1,5 +1,5 @@
 # container-test
-Container console app. Increments and outputs count every second.
+Simple container console app that increments a coutner by one and writes to console each second.
 
 # build image
 open project in VS Code  
@@ -7,6 +7,7 @@ must have [Docker Extension](https://code.visualstudio.com/docs/containers/overv
 `ctrl + shift + p`  
 use `Docker Images: Build Image...` extension  
 use name `containertest:latest` and build image  
+see [ASP.NET Core in a container](https://code.visualstudio.com/docs/containers/quickstart-aspnet-core) for more tips.
 
 # run container
 output list of docker images  
