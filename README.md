@@ -1,5 +1,5 @@
 # container-test
-Simple container console app that increments a coutner by one and writes to console each second.
+Simple container console app that increments a counter by one and writes to console each second.
 
 # build image
 open project in VS Code  
