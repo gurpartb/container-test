@@ -3,7 +3,7 @@ Simple container console app that increments a counter by one and writes to cons
 
 # build image
 open project in VS Code  
-must have [Docker Extension](https://code.visualstudio.com/docs/containers/overview) installed
+must have [Docker Extension](https://code.visualstudio.com/docs/containers/overview) installed  
 `ctrl + shift + p`  
 use `Docker Images: Build Image...` extension  
 use name `containertest:latest` and build image  
